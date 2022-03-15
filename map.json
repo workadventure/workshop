@@ -545,7 +545,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ TeamDynemo}}}"
+                         "value":"{{{ Galaxy }}}"
                         }, 
                         {
                          "name":"openWebsitePolicy",
